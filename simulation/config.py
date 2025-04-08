@@ -1,0 +1,6 @@
+# Configuración global
+WIDTH = 800
+HEIGHT = 600
+GRAVITY = 9.8 * 100
+AMORTIGUACION = 0.95
+MODO_DEBUG = False
